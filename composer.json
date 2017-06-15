@@ -1,0 +1,16 @@
+{
+  "name" : "wujunshan/geetest",
+  "description" : "Geetest For ThinkPHP5 Fork by lilwil",
+  "version" : "1.0.0",
+  "license" : "Apache-2.0",
+  "autoload" : {
+    "psr-4" : {
+      "think\\geetest\\" : "src/"
+    },
+    "files" : [ "src/helper.php" ]
+  },
+  "authors" : [ {
+    "name" : "wujunshan",
+    "email" : "1716157619@qq.com"
+  } ]
+}
